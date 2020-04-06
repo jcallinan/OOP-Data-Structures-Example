@@ -131,12 +131,6 @@
     <None Include="app.config">
       <SubType>Designer</SubType>
     </None>
-    <None Include="ImportToiSeries_1_TemporaryKey.pfx" />
-    <None Include="ImportToiSeries_2_TemporaryKey.pfx" />
-    <None Include="ImportToiSeries_3_TemporaryKey.pfx" />
-    <None Include="ImportToiSeries_4_TemporaryKey.pfx" />
-    <None Include="ImportToiSeries_5_TemporaryKey.pfx" />
-    <None Include="ImportToiSeries_TemporaryKey.pfx" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

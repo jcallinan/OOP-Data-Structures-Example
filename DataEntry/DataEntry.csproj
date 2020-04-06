@@ -124,10 +124,6 @@
     <None Include="App.config">
       <SubType>Designer</SubType>
     </None>
-    <None Include="DataEntry_1_TemporaryKey.pfx" />
-    <None Include="DataEntry_2_TemporaryKey.pfx" />
-    <None Include="DataEntry_3_TemporaryKey.pfx" />
-    <None Include="DataEntry_TemporaryKey.pfx" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

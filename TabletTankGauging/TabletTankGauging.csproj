@@ -61,10 +61,10 @@
     <ApplicationIcon>TankGauging2.ico</ApplicationIcon>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestCertificateThumbprint>F3911D788998C5C8C8820D51FBA96776667A8BCE</ManifestCertificateThumbprint>
+    <ManifestCertificateThumbprint>6EB44083631C024F9F4AE9B7A29126576B83B1A1</ManifestCertificateThumbprint>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestKeyFile>TabletTankGauging_5_TemporaryKey.pfx</ManifestKeyFile>
+    <ManifestKeyFile>TabletTankGauging_TemporaryKey.pfx</ManifestKeyFile>
   </PropertyGroup>
   <PropertyGroup>
     <GenerateManifests>true</GenerateManifests>
@@ -154,11 +154,6 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <None Include="TabletTankGauging_1_TemporaryKey.pfx" />
-    <None Include="TabletTankGauging_2_TemporaryKey.pfx" />
-    <None Include="TabletTankGauging_3_TemporaryKey.pfx" />
-    <None Include="TabletTankGauging_4_TemporaryKey.pfx" />
-    <None Include="TabletTankGauging_5_TemporaryKey.pfx" />
     <None Include="TabletTankGauging_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
